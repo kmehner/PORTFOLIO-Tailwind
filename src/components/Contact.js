@@ -38,7 +38,7 @@ export default function Contact() {
                 marginHeight={0}
                 marginWidth={0}
                 style={{ filter: "opacity(0.7)" }}
-                src="https://www.google.com/maps/embed/v1/place?q=97+warren+st+new+york+city&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3060.8005550639255!2d-105.08844154925335!3d39.901097479327454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876b8bc94e992a07%3A0xc3bde273d2574eda!2s8000%20Uptown%20Apartments!5e0!3m2!1sen!2sus!4v1651598196307!5m2!1sen!2sus"
             />
             <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
                 <div className="lg:w-1/2 px-6">
@@ -46,8 +46,8 @@ export default function Contact() {
                     ADDRESS
                 </h2>
                 <p className="mt-1">
-                    97 Warren St. <br />
-                    New York, NY 10007
+                    8000 Uptown Blvd. <br />
+                    Broomfield, CO, 80021
                 </p>
                 </div>
                 <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -55,12 +55,12 @@ export default function Contact() {
                     EMAIL
                 </h2>
                 <a className="text-indigo-400 leading-relaxed">
-                    reedbarger@email.com
+                    kmehner@gmail.com
                 </a>
                 <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                     PHONE
                 </h2>
-                <p className="leading-relaxed">123-456-7890</p>
+                <p className="leading-relaxed">(805) 300-7248</p>
                 </div>
             </div>
             </div>
